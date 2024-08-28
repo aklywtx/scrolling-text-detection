@@ -4,9 +4,6 @@
 
 This is a course project for High Level Computer Vision in Saarland University. This project introduces a pipeline capable of detecting and reading moving horizontal text in videos, inspired by rolling-text seen on german train station information boards. The pipeline combines Optical Flow methods, pre-trained Text-Detection and OCR models, and Large Language Models to detect and recognize rolling-text in video.
 
-## Pipeline
-
-TBD
 
 ## Scripts
 
