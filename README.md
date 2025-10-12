@@ -17,16 +17,16 @@ This is a course project for High Level Computer Vision in Saarland University. 
 
 ## Requirements
 
-numpy>=1.24
-opencv-python>=4.7
-pillow>=9.0
-pytesseract>=0.3.10
-tqdm>=4.60
-scikit-image>=0.19
-imutils>=0.5
-matplotlib>=3.5
-openai>=0.27.0
-llama-cpp-python>=0.1.0
+- numpy>=1.24
+- opencv-python>=4.7
+- pillow>=9.0
+- pytesseract>=0.3.10
+- tqdm>=4.60
+- scikit-image>=0.19
+- imutils>=0.5
+- matplotlib>=3.5
+- openai>=0.27.0
+- llama-cpp-python>=0.1.0
 
 ## Usage
 
